@@ -2,7 +2,7 @@
 ## A Full Stack Developer and sales professional based out of Berlin, DE 🇩🇪
 
 - 🔭 I’m currently working on [StayFresh](https://www.stayfresh.lol/users/sign_in)
-- 🌱 I’m currently learning **React and Node.js*
+- 🌱 I’m currently learning **React and Node.js**
 - 📫 How to reach me: hamzashah_g@hotmail.com
 
 ## Connect with me:
